@@ -3,7 +3,7 @@
 
 ### 📬 Find me at
 <p>&nbsp;&nbsp;&nbsp;  <a href="mailto:chompaoreh338@gmailcom"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="[www.linkedin.com/in/hyacinthe-compaoré-noma](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGkaDDj_iCAxXST0EAHbZOAQQQFnoECA8QAQ&url=https%3A%2F%2Fbf.linkedin.com%2Fin%2Fhyacinthe-compaor%25C3%25A9-b5174b272&usg=AOvVaw2CQ-kznSR8HdUfdep4gEH0&opi=89978449)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="www.linkedin.com/in/hyacinthe-compaoré-noma"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/compaoreh338/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
