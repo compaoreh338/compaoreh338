@@ -20,8 +20,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)&nbsp;\
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;\
+&nbsp;&nbsp;&nbsp;
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white) &nbsp;\
 &nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;\
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;\
@@ -35,8 +34,9 @@
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;\
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)&nbsp;\
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;\
 
 </details>
 
