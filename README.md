@@ -1,4 +1,4 @@
-<img src="assets/header.svg"></img>
+<img src="header.svg"></img>
 
 ### 📬 Find me at
 <p>&nbsp;&nbsp;&nbsp;  <a href="mailto:chompaoreh338@gmailcom"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
