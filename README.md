@@ -1,3 +1,4 @@
+![Uploading header.svg…]()
 <img src="header.svg"></img>
 
 ### 📬 Find me at
@@ -8,7 +9,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full-Stack Software Engineer at [DECLIC](https://declic.africa/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Full-Stack
+ [DECLIC](https://declic.africa/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love  Mobile  and web Development  \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.
 
